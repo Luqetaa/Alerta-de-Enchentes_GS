@@ -61,6 +61,6 @@ Gif do projeto funcionando no wokwi:
 ## 👨‍💻 Integrantes
 
 - **Lucas Cavalcante RM 562857**  
-- **Matheus Rodrigues RM **
+- **Matheus Rodrigues RM 561689**
 
 ---
