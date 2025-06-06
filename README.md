@@ -53,7 +53,7 @@ Gif do projeto funcionando no wokwi:
 
 ## 🧪 Simulação no Wokwi
 
-💻 O projeto é totalmente funcional no simulador online **[Wokwi](https://wokwi.com/)**.  
+💻 O projeto é totalmente funcional no simulador online.  
 📎 [Link para o projeto no Wokwi](https://wokwi.com/projects/432572281111019521)
 
 ---
