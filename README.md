@@ -1,6 +1,6 @@
 # 🌊 Sistema de Alerta de Enchentes com Arduino — Projeto IoT
 
-Este é um projeto de Internet das Coisas (IoT) que simula um **sistema inteligente de alerta de enchentes**, utilizando sensores para monitorar o nível da água e a umidade do ar, com alertas visuais e sonoros. O sistema foi desenvolvido para rodar no simulador [Wokwi](https://wokwi.com/), usando componentes 100% compatíveis.
+Este é um projeto de Internet das Coisas (IoT) que simula um **sistema inteligente de alerta de enchentes**, utilizando sensores para monitorar o nível da água e a umidade do ar, com alertas visuais e sonoros. O sistema foi desenvolvido para rodar no simulador Wokwi, usando componentes 100% compatíveis.
 
 ---
 
@@ -55,6 +55,13 @@ Gif do projeto funcionando no wokwi:
 
 💻 O projeto é totalmente funcional no simulador online **[Wokwi](https://wokwi.com/)**.  
 📎 [Link para o projeto no Wokwi](https://wokwi.com/projects/432572281111019521)
+
+---
+
+## 🎥 Video Demonstrativo
+
+💻 Video demonstrativo publicado no youtube.  
+📎 [Video Demonstrativo](https://youtu.be/lWTvgWU_bWE)
 
 ---
 
